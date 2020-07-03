@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "Yes?\n"
+read user_hot_air
+echo "I will never"
+echo "print my secrets"
+
+#bit of an explanation:
+#these lines preceded by the so-called "hashtag"
+#are called comments and they are usually
+#used to communicate to other humans who might
+#be looking at your code. They are ignored by
+#computers
+
+#yes, this one is obstinate. His secret is his name,
+#which is austin
